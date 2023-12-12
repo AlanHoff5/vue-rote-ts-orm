@@ -20,7 +20,10 @@ Objetivo: Projetar um sistema para gerencia de oficina mecânica, para o pessoal
 
 <!-- IMAGENS -->
 ## IMAGENS DO SISTEMA WEB
+CRUD
 <img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
+
+LOGIN
 <img width="845" alt="Screenshot 2023-12-12 101443" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/bbe17e71-8620-4ded-88bd-273b5d6af665">
 
 

@@ -2,7 +2,6 @@
 Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo
 
 [![Vue][Vue.js]][Vue-url]
-
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white

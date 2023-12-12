@@ -13,35 +13,19 @@ Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto  
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Projeto de CRUD, com autenticação.
+Problema: sistema oficina mecânica
+Objetivo: Projetar um sistema para gerencia de oficina mecânica, para o pessoal que trabalha com o sistema, precisa adicionar, editar e remover o serviço, cliente, funcionario, endereço e veiculo.
 
 
 
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- IMAGENS -->
+## IMAGENS DO SISTEMA WEB
+<img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
+<img width="845" alt="Screenshot 2023-12-12 101443" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/bbe17e71-8620-4ded-88bd-273b5d6af665">
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 

@@ -6,6 +6,7 @@ Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npm.com/)
+[![TS](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)](https://typescript.com/)
 
 
 <!-- PROJECT LOGO -->

@@ -3,10 +3,8 @@ Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo
 
 [![Vue][Vue.js]][Vue-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 
 <!-- PROJECT LOGO -->

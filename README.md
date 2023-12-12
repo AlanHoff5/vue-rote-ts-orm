@@ -38,15 +38,19 @@ Instalar os pacotes NPM
 
 1. Clone o repositório
    ```sh
-   git clone 
+   git clone https://github.com/AlanHoff5/vue-rote-ts-orm.git
    ```
-3. Install NPM packages
+2. Instalar os pacotes NPM 
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Entrar no terminal de ambas as pastas e rodar o código
+   ```sh
+   npm run dev
+   ```
+4. Pesquisar o localhost na url do navegador
+   ```bash
+     http://localhost:8080
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

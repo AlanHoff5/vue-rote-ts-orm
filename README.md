@@ -1,9 +1,7 @@
 #                           vue-rote-ts-orm
 Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo
 
-[![LinkedIn][linkedin-shield[www.linkedin.com/in/alan-hoffmann-dos-santos-642033216]]]
-
-
+[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />

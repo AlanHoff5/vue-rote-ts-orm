@@ -78,7 +78,7 @@ Alan Hoffmann Dos Santos - www.linkedin.com/in/alan-hoffmann-dos-santos-64203321
 alanhoff.5705.12@gmail.com -   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alanhoff.5705.12@gmail.com)
 
 
-Project Link: 
+Project Link: https://github.com/AlanHoff5/vue-rote-ts-orm.git
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

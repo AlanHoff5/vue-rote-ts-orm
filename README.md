@@ -4,6 +4,7 @@ Trabalho desenvolvido em aula, desafio proposto pelo professor Telmo
 [![Vue][Vue.js]][Vue-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 
 

@@ -73,11 +73,11 @@ Distributed under the MIT License.
 <!-- CONTATO -->
 ## Contato
 
-Alan Hoffmann Dos Santos -   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alan-hoffmann-dos-santos-642033216)
+Alan Hoffmann Dos Santos - www.linkedin.com/in/alan-hoffmann-dos-santos-642033216   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alan-hoffmann-dos-santos-642033216)
 
-Email de Alan Hoffmann -   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alanhoff.5705.12@gmail.com)
+alanhoff.5705.12@gmail.com -   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alanhoff.5705.12@gmail.com)
 (
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

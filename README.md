@@ -76,7 +76,8 @@ Distributed under the MIT License.
 Alan Hoffmann Dos Santos - www.linkedin.com/in/alan-hoffmann-dos-santos-642033216   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alan-hoffmann-dos-santos-642033216)
 
 alanhoff.5705.12@gmail.com -   [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alanhoff.5705.12@gmail.com)
-(
+
+
 Project Link: 
 
 

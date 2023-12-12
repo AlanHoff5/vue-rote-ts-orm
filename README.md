@@ -18,7 +18,6 @@ Problema: sistema oficina mecânica
 Objetivo: Projetar um sistema para gerencia de oficina mecânica, para o pessoal que trabalha com o sistema, precisa adicionar, editar e remover o serviço, cliente, funcionario, endereço e veiculo.
 
 
-
 <!-- IMAGENS -->
 ## IMAGENS DO SISTEMA WEB
 <img width="458" alt="Screenshot 2023-12-12 101339" src="https://github.com/AlanHoff5/vue-rote-ts-orm/assets/77331153/7d3d9d08-ce59-411f-b415-c1ad8bbb5deb">
@@ -27,20 +26,19 @@ Objetivo: Projetar um sistema para gerencia de oficina mecânica, para o pessoal
 
 
 
-### Prerequisites
+### Pré requisitos
 
-This is an example of how to list things you need to use the software and how to install them.
+Instalar os pacotes NPM
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install 
   ```
 
-### Installation
+### Instalação
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone o repositório
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone 
    ```
 3. Install NPM packages
    ```sh
